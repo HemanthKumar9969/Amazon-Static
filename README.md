@@ -4,16 +4,9 @@ This repository contains a static web project designed to replicate the front-en
 
 
 Usage:
+
+
 To view the project, simply open the index.html file in a web browser.
-Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
 
 
-
-OR 
-
-
-
-To run it simply type
-
-
-npm run start
+Contributions are welcome! Feel free to fork this repository, make changes.
