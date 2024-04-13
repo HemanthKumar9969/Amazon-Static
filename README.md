@@ -1,4 +1,4 @@
-# Amazon-clone-Static
+# Amazon-Website
 
 This repository contains a static web project designed to replicate the front-end layout and functionality of the Amazon website. It includes HTML, CSS, and video files showcasing the project.
 
